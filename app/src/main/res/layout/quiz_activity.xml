@@ -31,7 +31,7 @@
         android:layout_marginTop="8dp"
         android:gravity="center"
         android:padding="16dp"
-        android:text="Przykładowe pytanie jakieś o treści jakiejść i tak dalej na ktore trzeba odpowiedziec i tak dalej?"
+        android:text="https://www.youtube.com/watch?v=WXTqbfAfXxQ - Wow you found it? Congrats"
         android:textColor="#eeeeee"
         android:textSize="18dp"
         app:layout_constraintBottom_toTopOf="@+id/ans_a"
@@ -98,7 +98,7 @@
         app:layout_constraintHorizontal_bias="0.0"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:srcCompat="@drawable/ic_language_java" />
+        app:srcCompat="@drawable/ic_category_anime" />
 
     <ImageView
         android:id="@+id/levelImageView"
