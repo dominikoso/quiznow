@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">QuizNow</string>
+    <string name="navigation_news">News</string>
+    <string name="navigation_quiz">Quizzes</string>
+    <string name="navigation_profile">Profile</string>
+    <string name="anonym_name">Not Logged</string>
+    <string name="level_easy">Easy</string>
+    <string name="level_average">Normal</string>
+    <string name="level_hard">Hard</string>
+    <string name="cat_anime">Anime</string>
+    <string name="cat_linux">Linux</string>
+    <string name="cat_wow">World of Warcraft</string>
+    <string name="cat_programming">Coding</string>
+    <string name="not_logged_like">Login to like</string>
+    <string name="not_logged_news">Login to publish</string>
+    <string name="time_is_up">"Time's Up"</string>
+</resources>
