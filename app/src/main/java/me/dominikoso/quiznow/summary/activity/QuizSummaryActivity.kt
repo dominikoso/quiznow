@@ -94,9 +94,7 @@ class QuizSummaryActivity : BaseActivity() {
     }
 
      override fun onLoginSuccess() {
-        //todo bazowa
         goToPublish()
-        //on login failed/success
     }
 
     override fun onLoginFailure(exception: Exception?) {
